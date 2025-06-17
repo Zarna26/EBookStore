@@ -1,0 +1,7 @@
+wwwroot\css\bootstrap.min.css
+wwwroot\favicon.ico
+wwwroot\images\93038f90-4b31-4bdb-9796-d03ecaea013a.png
+wwwroot\images\hobbit.jfif
+wwwroot\images\NoImage.png
+G:\EBookStore\BookShoppingCartMvcUI\wwwroot\css\bootstrap.min.css
+G:\EBookStore\BookShoppingCartMvcUI\wwwroot\favicon.ico
